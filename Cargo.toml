@@ -1,0 +1,15 @@
+[package]
+name = "shleazy"
+version = "0.1.0"
+edition = "2021"
+authors = ["Wade Berrier <wberrier@gmail.com>"]
+description = "Shell Made Easy: convenience wrappers around std::process"
+license = "MIT OR Apache-2.0"
+homepage = "https://github.com/wberrier/shleazy"
+repository = "https://github.com/wberrier/shleazy"
+readme = "README.md"
+keywords = ["process", "shell", "scripting"]
+
+[dependencies]
+anyhow = "1.0"
+log = "0"
