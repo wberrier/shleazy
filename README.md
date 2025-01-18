@@ -33,7 +33,7 @@ fn main() -> Result<()> {
 ## TODO
 
 * flesh out all combinations (existing implemented as needed)
-* capture/combine `stderr
+* capture/combine `stderr`
 * model around a struct instead? (Seems more verbose?), for example:
 
 ```rust

@@ -1,6 +1,6 @@
 [package]
 name = "shleazy"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Wade Berrier <wberrier@gmail.com>"]
 description = "Shell Made Easy: convenience wrappers around std::process"
