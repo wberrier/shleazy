@@ -32,6 +32,7 @@ fn main() -> Result<()> {
 
 ## TODO
 
+* use procedural macro for args to avoid `format!()` with shell variants
 * flesh out all combinations (existing implemented as needed)
 * capture/combine `stderr`
 * model around a struct instead? (Seems more verbose?), for example:
