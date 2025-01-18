@@ -23,7 +23,7 @@ fn main() -> Result<()> {
     // Returns "test"
     let output = getoutput_shell_or_err("echo 'test'")?;
 
-    // returns (0, "test")
+    // Returns (0, "test")
     let (exit_code, output) = getstatusoutput_shell("echo 'test'")?;
 }
 
