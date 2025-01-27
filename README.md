@@ -32,6 +32,7 @@ fn main() -> Result<()> {
 
 ## TODO
 
+* add async feature? Or shleazy-async?
 * use procedural macro for args to avoid `format!()` with shell variants
 * flesh out all combinations (existing implemented as needed)
 * capture/combine `stderr`
